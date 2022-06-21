@@ -8,7 +8,7 @@ An automated Cookie Clicker tool.
 
 NOT currently compatible with __CCSE__. CCSE changes base game functions that break the switches like the season switch and the elder pledge. This problem exists in version **2.033** of CCSE and older, when used with Cookie Clicker version 2.048.
 
-## Changes in this fork
+##  Changes in this fork
 
 Current differences from the oficial release:
 * Fix to auto-Godzamok behaviour so that cookie count will not decrease drastically if enabled
