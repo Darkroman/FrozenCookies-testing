@@ -19,7 +19,7 @@ var scriptElement =
     document.getElementById("modscript_frozen_cookies");
 var baseUrl = scriptElement !== null ?
     scriptElement.getAttribute("src").replace(/\/frozen_cookies\.js$/, "") :
-    "https://darkroman.github.io/FrozenCookies-testing/";
+    "https://github.darkroman.com/FrozenCookies-testing/";
 var FrozenCookies = {
     baseUrl: baseUrl,
     branch: "Main-",
