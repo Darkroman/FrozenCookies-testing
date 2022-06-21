@@ -16,6 +16,6 @@ var loadInterval = setInterval(function() {
     const Game = unsafeWindow.Game;
     if (Game && Game.ready) {
         clearInterval(loadInterval);
-        Game.LoadMod("https://darkroman.github.io/FrozenCookies-testing/frozen_cookies.js");
+        Game.LoadMod("https://github.darkroman.com/FrozenCookies-testing/frozen_cookies.js");
     }
 }, 1000);
