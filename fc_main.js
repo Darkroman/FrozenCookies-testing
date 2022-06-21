@@ -3071,7 +3071,7 @@ function upgradeToggle(upgrade, achievements, reverseFunctions) {
         });
     }
     Game.recalculateGains = 1;
-    Game.CalculateGains();
+//    Game.CalculateGains();
     return reverseFunctions;
 }
 
